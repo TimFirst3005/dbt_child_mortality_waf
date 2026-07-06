@@ -1,0 +1,1002 @@
+country_code,country_name,year,under5_mortality_rate
+BEN,Benin,1960,307.6
+BEN,Benin,1961,302.8
+BEN,Benin,1962,298.0
+BEN,Benin,1963,292.9
+BEN,Benin,1964,287.8
+BEN,Benin,1965,282.6
+BEN,Benin,1966,277.7
+BEN,Benin,1967,273.0
+BEN,Benin,1968,268.3
+BEN,Benin,1969,264.1
+BEN,Benin,1970,259.7
+BEN,Benin,1971,255.3
+BEN,Benin,1972,250.7
+BEN,Benin,1973,245.9
+BEN,Benin,1974,240.9
+BEN,Benin,1975,235.9
+BEN,Benin,1976,230.6
+BEN,Benin,1977,225.5
+BEN,Benin,1978,220.6
+BEN,Benin,1979,215.8
+BEN,Benin,1980,211.3
+BEN,Benin,1981,207.1
+BEN,Benin,1982,203.1
+BEN,Benin,1983,199.1
+BEN,Benin,1984,195.3
+BEN,Benin,1985,191.3
+BEN,Benin,1986,187.4
+BEN,Benin,1987,183.5
+BEN,Benin,1988,179.4
+BEN,Benin,1989,175.4
+BEN,Benin,1990,171.2
+BEN,Benin,1991,167.0
+BEN,Benin,1992,163.0
+BEN,Benin,1993,159.0
+BEN,Benin,1994,155.2
+BEN,Benin,1995,151.5
+BEN,Benin,1996,148.1
+BEN,Benin,1997,144.8
+BEN,Benin,1998,141.5
+BEN,Benin,1999,138.3
+BEN,Benin,2000,135.0
+BEN,Benin,2001,131.7
+BEN,Benin,2002,128.5
+BEN,Benin,2003,125.4
+BEN,Benin,2004,122.5
+BEN,Benin,2005,119.7
+BEN,Benin,2006,117.0
+BEN,Benin,2007,114.4
+BEN,Benin,2008,112.0
+BEN,Benin,2009,109.7
+BEN,Benin,2010,107.4
+BEN,Benin,2011,105.1
+BEN,Benin,2012,102.9
+BEN,Benin,2013,100.6
+BEN,Benin,2014,98.4
+BEN,Benin,2015,96.1
+BEN,Benin,2016,94.0
+BEN,Benin,2017,91.8
+BEN,Benin,2018,89.4
+BEN,Benin,2019,87.0
+BEN,Benin,2020,84.6
+BEN,Benin,2021,82.2
+BEN,Benin,2022,79.6
+BEN,Benin,2023,77.2
+BEN,Benin,2024,74.7
+BFA,Burkina Faso,1960,343.1
+BFA,Burkina Faso,1961,339.1
+BFA,Burkina Faso,1962,335.5
+BFA,Burkina Faso,1963,332.1
+BFA,Burkina Faso,1964,328.7
+BFA,Burkina Faso,1965,325.7
+BFA,Burkina Faso,1966,322.7
+BFA,Burkina Faso,1967,320.1
+BFA,Burkina Faso,1968,317.5
+BFA,Burkina Faso,1969,314.5
+BFA,Burkina Faso,1970,311.4
+BFA,Burkina Faso,1971,307.8
+BFA,Burkina Faso,1972,303.0
+BFA,Burkina Faso,1973,296.9
+BFA,Burkina Faso,1974,289.2
+BFA,Burkina Faso,1975,280.1
+BFA,Burkina Faso,1976,270.1
+BFA,Burkina Faso,1977,260.5
+BFA,Burkina Faso,1978,251.5
+BFA,Burkina Faso,1979,243.6
+BFA,Burkina Faso,1980,236.7
+BFA,Burkina Faso,1981,230.9
+BFA,Burkina Faso,1982,225.8
+BFA,Burkina Faso,1983,221.2
+BFA,Burkina Faso,1984,216.7
+BFA,Burkina Faso,1985,212.2
+BFA,Burkina Faso,1986,207.9
+BFA,Burkina Faso,1987,203.8
+BFA,Burkina Faso,1988,200.5
+BFA,Burkina Faso,1989,198.1
+BFA,Burkina Faso,1990,196.6
+BFA,Burkina Faso,1991,195.7
+BFA,Burkina Faso,1992,195.3
+BFA,Burkina Faso,1993,194.6
+BFA,Burkina Faso,1994,193.7
+BFA,Burkina Faso,1995,192.0
+BFA,Burkina Faso,1996,189.6
+BFA,Burkina Faso,1997,186.7
+BFA,Burkina Faso,1998,183.4
+BFA,Burkina Faso,1999,179.8
+BFA,Burkina Faso,2000,176.0
+BFA,Burkina Faso,2001,171.9
+BFA,Burkina Faso,2002,167.3
+BFA,Burkina Faso,2003,162.3
+BFA,Burkina Faso,2004,156.8
+BFA,Burkina Faso,2005,150.8
+BFA,Burkina Faso,2006,144.4
+BFA,Burkina Faso,2007,138.1
+BFA,Burkina Faso,2008,132.1
+BFA,Burkina Faso,2009,126.5
+BFA,Burkina Faso,2010,121.3
+BFA,Burkina Faso,2011,116.6
+BFA,Burkina Faso,2012,112.3
+BFA,Burkina Faso,2013,108.2
+BFA,Burkina Faso,2014,104.3
+BFA,Burkina Faso,2015,100.8
+BFA,Burkina Faso,2016,97.4
+BFA,Burkina Faso,2017,94.1
+BFA,Burkina Faso,2018,91.0
+BFA,Burkina Faso,2019,88.1
+BFA,Burkina Faso,2020,85.1
+BFA,Burkina Faso,2021,82.4
+BFA,Burkina Faso,2022,79.8
+BFA,Burkina Faso,2023,77.4
+BFA,Burkina Faso,2024,74.9
+CIV,Cote d'Ivoire,1960,319.3
+CIV,Cote d'Ivoire,1961,311.2
+CIV,Cote d'Ivoire,1962,303.5
+CIV,Cote d'Ivoire,1963,295.8
+CIV,Cote d'Ivoire,1964,288.3
+CIV,Cote d'Ivoire,1965,281.1
+CIV,Cote d'Ivoire,1966,274.0
+CIV,Cote d'Ivoire,1967,266.9
+CIV,Cote d'Ivoire,1968,259.9
+CIV,Cote d'Ivoire,1969,252.8
+CIV,Cote d'Ivoire,1970,245.6
+CIV,Cote d'Ivoire,1971,238.1
+CIV,Cote d'Ivoire,1972,230.1
+CIV,Cote d'Ivoire,1973,221.8
+CIV,Cote d'Ivoire,1974,213.2
+CIV,Cote d'Ivoire,1975,204.5
+CIV,Cote d'Ivoire,1976,196.2
+CIV,Cote d'Ivoire,1977,188.4
+CIV,Cote d'Ivoire,1978,181.3
+CIV,Cote d'Ivoire,1979,175.1
+CIV,Cote d'Ivoire,1980,170.0
+CIV,Cote d'Ivoire,1981,165.5
+CIV,Cote d'Ivoire,1982,161.8
+CIV,Cote d'Ivoire,1983,158.8
+CIV,Cote d'Ivoire,1984,156.5
+CIV,Cote d'Ivoire,1985,154.7
+CIV,Cote d'Ivoire,1986,153.6
+CIV,Cote d'Ivoire,1987,152.9
+CIV,Cote d'Ivoire,1988,152.9
+CIV,Cote d'Ivoire,1989,153.2
+CIV,Cote d'Ivoire,1990,153.6
+CIV,Cote d'Ivoire,1991,154.1
+CIV,Cote d'Ivoire,1992,154.2
+CIV,Cote d'Ivoire,1993,154.1
+CIV,Cote d'Ivoire,1994,153.5
+CIV,Cote d'Ivoire,1995,152.4
+CIV,Cote d'Ivoire,1996,150.9
+CIV,Cote d'Ivoire,1997,148.9
+CIV,Cote d'Ivoire,1998,146.4
+CIV,Cote d'Ivoire,1999,143.6
+CIV,Cote d'Ivoire,2000,140.4
+CIV,Cote d'Ivoire,2001,136.9
+CIV,Cote d'Ivoire,2002,133.1
+CIV,Cote d'Ivoire,2003,129.2
+CIV,Cote d'Ivoire,2004,125.3
+CIV,Cote d'Ivoire,2005,121.2
+CIV,Cote d'Ivoire,2006,117.4
+CIV,Cote d'Ivoire,2007,113.5
+CIV,Cote d'Ivoire,2008,109.0
+CIV,Cote d'Ivoire,2009,105.2
+CIV,Cote d'Ivoire,2010,101.6
+CIV,Cote d'Ivoire,2011,98.4
+CIV,Cote d'Ivoire,2012,95.3
+CIV,Cote d'Ivoire,2013,92.0
+CIV,Cote d'Ivoire,2014,88.6
+CIV,Cote d'Ivoire,2015,85.5
+CIV,Cote d'Ivoire,2016,83.0
+CIV,Cote d'Ivoire,2017,80.5
+CIV,Cote d'Ivoire,2018,77.9
+CIV,Cote d'Ivoire,2019,75.3
+CIV,Cote d'Ivoire,2020,73.0
+CIV,Cote d'Ivoire,2021,70.8
+CIV,Cote d'Ivoire,2022,68.7
+CIV,Cote d'Ivoire,2023,66.5
+CIV,Cote d'Ivoire,2024,64.5
+CPV,Cabo Verde,1960,171.4
+CPV,Cabo Verde,1961,168.1
+CPV,Cabo Verde,1962,164.8
+CPV,Cabo Verde,1963,161.6
+CPV,Cabo Verde,1964,157.9
+CPV,Cabo Verde,1965,153.6
+CPV,Cabo Verde,1966,149.1
+CPV,Cabo Verde,1967,144.2
+CPV,Cabo Verde,1968,138.8
+CPV,Cabo Verde,1969,132.9
+CPV,Cabo Verde,1970,126.7
+CPV,Cabo Verde,1971,120.5
+CPV,Cabo Verde,1972,114.1
+CPV,Cabo Verde,1973,107.8
+CPV,Cabo Verde,1974,101.7
+CPV,Cabo Verde,1975,95.9
+CPV,Cabo Verde,1976,90.8
+CPV,Cabo Verde,1977,86.2
+CPV,Cabo Verde,1978,82.7
+CPV,Cabo Verde,1979,80.0
+CPV,Cabo Verde,1980,78.1
+CPV,Cabo Verde,1981,77.1
+CPV,Cabo Verde,1982,76.5
+CPV,Cabo Verde,1983,75.8
+CPV,Cabo Verde,1984,74.6
+CPV,Cabo Verde,1985,72.5
+CPV,Cabo Verde,1986,69.6
+CPV,Cabo Verde,1987,65.9
+CPV,Cabo Verde,1988,62.1
+CPV,Cabo Verde,1989,58.8
+CPV,Cabo Verde,1990,56.4
+CPV,Cabo Verde,1991,55.0
+CPV,Cabo Verde,1992,54.6
+CPV,Cabo Verde,1993,54.6
+CPV,Cabo Verde,1994,54.5
+CPV,Cabo Verde,1995,53.7
+CPV,Cabo Verde,1996,51.7
+CPV,Cabo Verde,1997,48.4
+CPV,Cabo Verde,1998,44.3
+CPV,Cabo Verde,1999,40.0
+CPV,Cabo Verde,2000,36.0
+CPV,Cabo Verde,2001,32.8
+CPV,Cabo Verde,2002,30.5
+CPV,Cabo Verde,2003,29.0
+CPV,Cabo Verde,2004,28.2
+CPV,Cabo Verde,2005,28.0
+CPV,Cabo Verde,2006,28.0
+CPV,Cabo Verde,2007,28.1
+CPV,Cabo Verde,2008,27.9
+CPV,Cabo Verde,2009,27.5
+CPV,Cabo Verde,2010,26.7
+CPV,Cabo Verde,2011,25.6
+CPV,Cabo Verde,2012,24.2
+CPV,Cabo Verde,2013,22.6
+CPV,Cabo Verde,2014,20.9
+CPV,Cabo Verde,2015,19.2
+CPV,Cabo Verde,2016,17.6
+CPV,Cabo Verde,2017,16.2
+CPV,Cabo Verde,2018,15.1
+CPV,Cabo Verde,2019,14.1
+CPV,Cabo Verde,2020,13.3
+CPV,Cabo Verde,2021,12.7
+CPV,Cabo Verde,2022,12.1
+CPV,Cabo Verde,2023,11.6
+CPV,Cabo Verde,2024,11.1
+GHA,Ghana,1960,209.0
+GHA,Ghana,1961,206.9
+GHA,Ghana,1962,205.2
+GHA,Ghana,1963,204.1
+GHA,Ghana,1964,203.2
+GHA,Ghana,1965,202.8
+GHA,Ghana,1966,202.7
+GHA,Ghana,1967,203.0
+GHA,Ghana,1968,203.3
+GHA,Ghana,1969,203.4
+GHA,Ghana,1970,202.8
+GHA,Ghana,1971,201.5
+GHA,Ghana,1972,199.2
+GHA,Ghana,1973,195.9
+GHA,Ghana,1974,191.8
+GHA,Ghana,1975,187.1
+GHA,Ghana,1976,182.2
+GHA,Ghana,1977,177.5
+GHA,Ghana,1978,173.4
+GHA,Ghana,1979,170.2
+GHA,Ghana,1980,168.1
+GHA,Ghana,1981,166.6
+GHA,Ghana,1982,164.9
+GHA,Ghana,1983,162.8
+GHA,Ghana,1984,159.7
+GHA,Ghana,1985,155.3
+GHA,Ghana,1986,150.1
+GHA,Ghana,1987,144.3
+GHA,Ghana,1988,138.4
+GHA,Ghana,1989,132.7
+GHA,Ghana,1990,127.6
+GHA,Ghana,1991,123.5
+GHA,Ghana,1992,120.2
+GHA,Ghana,1993,117.8
+GHA,Ghana,1994,116.0
+GHA,Ghana,1995,114.4
+GHA,Ghana,1996,112.5
+GHA,Ghana,1997,110.3
+GHA,Ghana,1998,107.4
+GHA,Ghana,1999,103.9
+GHA,Ghana,2000,99.9
+GHA,Ghana,2001,95.8
+GHA,Ghana,2002,91.9
+GHA,Ghana,2003,88.2
+GHA,Ghana,2004,85.0
+GHA,Ghana,2005,82.0
+GHA,Ghana,2006,79.1
+GHA,Ghana,2007,76.2
+GHA,Ghana,2008,73.1
+GHA,Ghana,2009,69.8
+GHA,Ghana,2010,66.5
+GHA,Ghana,2011,63.3
+GHA,Ghana,2012,60.3
+GHA,Ghana,2013,57.5
+GHA,Ghana,2014,54.9
+GHA,Ghana,2015,52.5
+GHA,Ghana,2016,50.3
+GHA,Ghana,2017,48.2
+GHA,Ghana,2018,46.1
+GHA,Ghana,2019,44.1
+GHA,Ghana,2020,42.2
+GHA,Ghana,2021,40.3
+GHA,Ghana,2022,38.6
+GHA,Ghana,2023,37.2
+GHA,Ghana,2024,35.9
+GIN,Guinea,1960,346.7
+GIN,Guinea,1961,344.4
+GIN,Guinea,1962,342.2
+GIN,Guinea,1963,339.7
+GIN,Guinea,1964,337.3
+GIN,Guinea,1965,334.9
+GIN,Guinea,1966,332.1
+GIN,Guinea,1967,329.3
+GIN,Guinea,1968,326.6
+GIN,Guinea,1969,323.8
+GIN,Guinea,1970,321.0
+GIN,Guinea,1971,317.7
+GIN,Guinea,1972,314.6
+GIN,Guinea,1973,311.0
+GIN,Guinea,1974,307.7
+GIN,Guinea,1975,304.0
+GIN,Guinea,1976,299.9
+GIN,Guinea,1977,295.4
+GIN,Guinea,1978,290.7
+GIN,Guinea,1979,285.9
+GIN,Guinea,1980,281.0
+GIN,Guinea,1981,276.3
+GIN,Guinea,1982,271.5
+GIN,Guinea,1983,266.9
+GIN,Guinea,1984,262.3
+GIN,Guinea,1985,257.6
+GIN,Guinea,1986,253.0
+GIN,Guinea,1987,248.4
+GIN,Guinea,1988,243.7
+GIN,Guinea,1989,238.7
+GIN,Guinea,1990,233.4
+GIN,Guinea,1991,227.5
+GIN,Guinea,1992,221.1
+GIN,Guinea,1993,214.4
+GIN,Guinea,1994,207.5
+GIN,Guinea,1995,200.5
+GIN,Guinea,1996,193.5
+GIN,Guinea,1997,186.6
+GIN,Guinea,1998,179.7
+GIN,Guinea,1999,172.6
+GIN,Guinea,2000,165.7
+GIN,Guinea,2001,159.0
+GIN,Guinea,2002,152.7
+GIN,Guinea,2003,146.9
+GIN,Guinea,2004,141.6
+GIN,Guinea,2005,137.0
+GIN,Guinea,2006,133.1
+GIN,Guinea,2007,129.7
+GIN,Guinea,2008,126.9
+GIN,Guinea,2009,124.4
+GIN,Guinea,2010,122.2
+GIN,Guinea,2011,120.3
+GIN,Guinea,2012,118.4
+GIN,Guinea,2013,116.6
+GIN,Guinea,2014,115.4
+GIN,Guinea,2015,113.7
+GIN,Guinea,2016,111.4
+GIN,Guinea,2017,109.5
+GIN,Guinea,2018,107.5
+GIN,Guinea,2019,105.4
+GIN,Guinea,2020,102.9
+GIN,Guinea,2021,100.3
+GIN,Guinea,2022,97.6
+GIN,Guinea,2023,95.0
+GIN,Guinea,2024,92.1
+GMB,"Gambia, The",1960,360.1
+GMB,"Gambia, The",1961,353.1
+GMB,"Gambia, The",1962,346.4
+GMB,"Gambia, The",1963,339.6
+GMB,"Gambia, The",1964,333.1
+GMB,"Gambia, The",1965,326.7
+GMB,"Gambia, The",1966,320.4
+GMB,"Gambia, The",1967,314.0
+GMB,"Gambia, The",1968,307.9
+GMB,"Gambia, The",1969,301.9
+GMB,"Gambia, The",1970,295.6
+GMB,"Gambia, The",1971,289.0
+GMB,"Gambia, The",1972,282.5
+GMB,"Gambia, The",1973,275.9
+GMB,"Gambia, The",1974,269.2
+GMB,"Gambia, The",1975,262.5
+GMB,"Gambia, The",1976,255.8
+GMB,"Gambia, The",1977,249.5
+GMB,"Gambia, The",1978,243.0
+GMB,"Gambia, The",1979,236.7
+GMB,"Gambia, The",1980,230.3
+GMB,"Gambia, The",1981,223.9
+GMB,"Gambia, The",1982,217.2
+GMB,"Gambia, The",1983,210.7
+GMB,"Gambia, The",1984,204.1
+GMB,"Gambia, The",1985,197.4
+GMB,"Gambia, The",1986,190.7
+GMB,"Gambia, The",1987,184.2
+GMB,"Gambia, The",1988,178.1
+GMB,"Gambia, The",1989,172.1
+GMB,"Gambia, The",1990,166.2
+GMB,"Gambia, The",1991,160.5
+GMB,"Gambia, The",1992,154.9
+GMB,"Gambia, The",1993,149.3
+GMB,"Gambia, The",1994,143.7
+GMB,"Gambia, The",1995,138.2
+GMB,"Gambia, The",1996,132.9
+GMB,"Gambia, The",1997,127.6
+GMB,"Gambia, The",1998,122.6
+GMB,"Gambia, The",1999,117.7
+GMB,"Gambia, The",2000,112.8
+GMB,"Gambia, The",2001,108.1
+GMB,"Gambia, The",2002,103.6
+GMB,"Gambia, The",2003,99.2
+GMB,"Gambia, The",2004,94.9
+GMB,"Gambia, The",2005,90.7
+GMB,"Gambia, The",2006,86.8
+GMB,"Gambia, The",2007,83.0
+GMB,"Gambia, The",2008,79.4
+GMB,"Gambia, The",2009,76.0
+GMB,"Gambia, The",2010,72.7
+GMB,"Gambia, The",2011,69.7
+GMB,"Gambia, The",2012,66.8
+GMB,"Gambia, The",2013,64.0
+GMB,"Gambia, The",2014,61.4
+GMB,"Gambia, The",2015,58.9
+GMB,"Gambia, The",2016,56.6
+GMB,"Gambia, The",2017,54.3
+GMB,"Gambia, The",2018,52.3
+GMB,"Gambia, The",2019,50.4
+GMB,"Gambia, The",2020,48.6
+GMB,"Gambia, The",2021,47.0
+GMB,"Gambia, The",2022,45.3
+GMB,"Gambia, The",2023,43.8
+GMB,"Gambia, The",2024,42.4
+GNB,Guinea-Bissau,1985,245.9
+GNB,Guinea-Bissau,1986,241.2
+GNB,Guinea-Bissau,1987,236.7
+GNB,Guinea-Bissau,1988,232.4
+GNB,Guinea-Bissau,1989,228.0
+GNB,Guinea-Bissau,1990,223.7
+GNB,Guinea-Bissau,1991,219.0
+GNB,Guinea-Bissau,1992,214.5
+GNB,Guinea-Bissau,1993,209.9
+GNB,Guinea-Bissau,1994,205.0
+GNB,Guinea-Bissau,1995,200.1
+GNB,Guinea-Bissau,1996,195.0
+GNB,Guinea-Bissau,1997,190.0
+GNB,Guinea-Bissau,1998,185.0
+GNB,Guinea-Bissau,1999,179.9
+GNB,Guinea-Bissau,2000,174.8
+GNB,Guinea-Bissau,2001,169.3
+GNB,Guinea-Bissau,2002,163.6
+GNB,Guinea-Bissau,2003,157.7
+GNB,Guinea-Bissau,2004,151.6
+GNB,Guinea-Bissau,2005,145.3
+GNB,Guinea-Bissau,2006,139.1
+GNB,Guinea-Bissau,2007,132.8
+GNB,Guinea-Bissau,2008,126.5
+GNB,Guinea-Bissau,2009,120.2
+GNB,Guinea-Bissau,2010,114.3
+GNB,Guinea-Bissau,2011,108.6
+GNB,Guinea-Bissau,2012,103.6
+GNB,Guinea-Bissau,2013,99.1
+GNB,Guinea-Bissau,2014,95.2
+GNB,Guinea-Bissau,2015,91.6
+GNB,Guinea-Bissau,2016,88.2
+GNB,Guinea-Bissau,2017,85.1
+GNB,Guinea-Bissau,2018,82.2
+GNB,Guinea-Bissau,2019,79.5
+GNB,Guinea-Bissau,2020,76.7
+GNB,Guinea-Bissau,2021,74.3
+GNB,Guinea-Bissau,2022,72.0
+GNB,Guinea-Bissau,2023,69.7
+GNB,Guinea-Bissau,2024,67.3
+LBR,Liberia,1960,309.7
+LBR,Liberia,1961,310.1
+LBR,Liberia,1962,309.7
+LBR,Liberia,1963,308.6
+LBR,Liberia,1964,307.0
+LBR,Liberia,1965,305.1
+LBR,Liberia,1966,302.5
+LBR,Liberia,1967,299.2
+LBR,Liberia,1968,295.0
+LBR,Liberia,1969,290.6
+LBR,Liberia,1970,285.9
+LBR,Liberia,1971,281.3
+LBR,Liberia,1972,276.8
+LBR,Liberia,1973,272.6
+LBR,Liberia,1974,268.4
+LBR,Liberia,1975,264.2
+LBR,Liberia,1976,260.2
+LBR,Liberia,1977,256.6
+LBR,Liberia,1978,253.1
+LBR,Liberia,1979,249.7
+LBR,Liberia,1980,246.6
+LBR,Liberia,1981,244.0
+LBR,Liberia,1982,242.1
+LBR,Liberia,1983,241.1
+LBR,Liberia,1984,241.6
+LBR,Liberia,1985,243.9
+LBR,Liberia,1986,247.9
+LBR,Liberia,1987,253.4
+LBR,Liberia,1988,259.5
+LBR,Liberia,1989,265.5
+LBR,Liberia,1990,270.0
+LBR,Liberia,1991,272.3
+LBR,Liberia,1992,271.7
+LBR,Liberia,1993,268.1
+LBR,Liberia,1994,261.9
+LBR,Liberia,1995,253.7
+LBR,Liberia,1996,243.8
+LBR,Liberia,1997,232.7
+LBR,Liberia,1998,220.7
+LBR,Liberia,1999,208.0
+LBR,Liberia,2000,194.9
+LBR,Liberia,2001,181.7
+LBR,Liberia,2002,168.6
+LBR,Liberia,2003,156.2
+LBR,Liberia,2004,144.8
+LBR,Liberia,2005,134.9
+LBR,Liberia,2006,126.5
+LBR,Liberia,2007,119.6
+LBR,Liberia,2008,114.0
+LBR,Liberia,2009,109.5
+LBR,Liberia,2010,105.7
+LBR,Liberia,2011,102.4
+LBR,Liberia,2012,99.5
+LBR,Liberia,2013,97.0
+LBR,Liberia,2014,97.0
+LBR,Liberia,2015,93.2
+LBR,Liberia,2016,91.5
+LBR,Liberia,2017,90.3
+LBR,Liberia,2018,89.4
+LBR,Liberia,2019,88.7
+LBR,Liberia,2020,88.3
+LBR,Liberia,2021,88.0
+LBR,Liberia,2022,87.8
+LBR,Liberia,2023,87.3
+LBR,Liberia,2024,86.4
+MLI,Mali,1963,432.4
+MLI,Mali,1964,424.8
+MLI,Mali,1965,417.7
+MLI,Mali,1966,411.0
+MLI,Mali,1967,404.4
+MLI,Mali,1968,397.7
+MLI,Mali,1969,391.4
+MLI,Mali,1970,385.1
+MLI,Mali,1971,378.5
+MLI,Mali,1972,371.8
+MLI,Mali,1973,364.6
+MLI,Mali,1974,356.9
+MLI,Mali,1975,348.6
+MLI,Mali,1976,340.0
+MLI,Mali,1977,331.3
+MLI,Mali,1978,322.5
+MLI,Mali,1979,313.7
+MLI,Mali,1980,305.1
+MLI,Mali,1981,296.5
+MLI,Mali,1982,288.0
+MLI,Mali,1983,279.7
+MLI,Mali,1984,271.6
+MLI,Mali,1985,264.0
+MLI,Mali,1986,256.9
+MLI,Mali,1987,250.2
+MLI,Mali,1988,244.1
+MLI,Mali,1989,238.4
+MLI,Mali,1990,233.3
+MLI,Mali,1991,228.7
+MLI,Mali,1992,224.6
+MLI,Mali,1993,220.9
+MLI,Mali,1994,217.3
+MLI,Mali,1995,213.7
+MLI,Mali,1996,209.9
+MLI,Mali,1997,205.6
+MLI,Mali,1998,200.9
+MLI,Mali,1999,195.6
+MLI,Mali,2000,189.9
+MLI,Mali,2001,183.9
+MLI,Mali,2002,177.7
+MLI,Mali,2003,171.7
+MLI,Mali,2004,165.8
+MLI,Mali,2005,160.1
+MLI,Mali,2006,154.6
+MLI,Mali,2007,149.2
+MLI,Mali,2008,144.0
+MLI,Mali,2009,138.9
+MLI,Mali,2010,133.8
+MLI,Mali,2011,128.8
+MLI,Mali,2012,123.9
+MLI,Mali,2013,119.1
+MLI,Mali,2014,114.4
+MLI,Mali,2015,109.7
+MLI,Mali,2016,105.1
+MLI,Mali,2017,100.6
+MLI,Mali,2018,96.2
+MLI,Mali,2019,91.9
+MLI,Mali,2020,87.6
+MLI,Mali,2021,83.6
+MLI,Mali,2022,79.7
+MLI,Mali,2023,76.2
+MLI,Mali,2024,73.0
+MRT,Mauritania,1960,257.8
+MRT,Mauritania,1961,251.3
+MRT,Mauritania,1962,244.6
+MRT,Mauritania,1963,237.6
+MRT,Mauritania,1964,230.9
+MRT,Mauritania,1965,224.0
+MRT,Mauritania,1966,216.8
+MRT,Mauritania,1967,209.7
+MRT,Mauritania,1968,242.5
+MRT,Mauritania,1969,235.8
+MRT,Mauritania,1970,231.1
+MRT,Mauritania,1971,227.9
+MRT,Mauritania,1972,226.4
+MRT,Mauritania,1973,225.4
+MRT,Mauritania,1974,224.1
+MRT,Mauritania,1975,189.1
+MRT,Mauritania,1976,186.1
+MRT,Mauritania,1977,181.9
+MRT,Mauritania,1978,176.9
+MRT,Mauritania,1979,171.6
+MRT,Mauritania,1980,166.4
+MRT,Mauritania,1981,161.3
+MRT,Mauritania,1982,156.1
+MRT,Mauritania,1983,150.8
+MRT,Mauritania,1984,145.0
+MRT,Mauritania,1985,138.6
+MRT,Mauritania,1986,132.3
+MRT,Mauritania,1987,126.9
+MRT,Mauritania,1988,122.2
+MRT,Mauritania,1989,118.7
+MRT,Mauritania,1990,116.5
+MRT,Mauritania,1991,114.8
+MRT,Mauritania,1992,113.6
+MRT,Mauritania,1993,112.6
+MRT,Mauritania,1994,111.7
+MRT,Mauritania,1995,110.7
+MRT,Mauritania,1996,109.4
+MRT,Mauritania,1997,107.6
+MRT,Mauritania,1998,105.2
+MRT,Mauritania,1999,102.0
+MRT,Mauritania,2000,98.0
+MRT,Mauritania,2001,93.4
+MRT,Mauritania,2002,88.2
+MRT,Mauritania,2003,82.8
+MRT,Mauritania,2004,77.5
+MRT,Mauritania,2005,72.5
+MRT,Mauritania,2006,68.1
+MRT,Mauritania,2007,64.3
+MRT,Mauritania,2008,61.3
+MRT,Mauritania,2009,58.8
+MRT,Mauritania,2010,56.8
+MRT,Mauritania,2011,55.1
+MRT,Mauritania,2012,53.5
+MRT,Mauritania,2013,52.1
+MRT,Mauritania,2014,50.6
+MRT,Mauritania,2015,49.1
+MRT,Mauritania,2016,47.7
+MRT,Mauritania,2017,46.2
+MRT,Mauritania,2018,44.7
+MRT,Mauritania,2019,43.4
+MRT,Mauritania,2020,42.0
+MRT,Mauritania,2021,40.7
+MRT,Mauritania,2022,39.4
+MRT,Mauritania,2023,38.1
+MRT,Mauritania,2024,36.9
+NER,Niger,1967,321.1
+NER,Niger,1968,324.8
+NER,Niger,1969,328.8
+NER,Niger,1970,332.9
+NER,Niger,1971,337.1
+NER,Niger,1972,340.9
+NER,Niger,1973,343.5
+NER,Niger,1974,344.6
+NER,Niger,1975,343.5
+NER,Niger,1976,340.8
+NER,Niger,1977,336.6
+NER,Niger,1978,331.8
+NER,Niger,1979,327.6
+NER,Niger,1980,325.0
+NER,Niger,1981,324.5
+NER,Niger,1982,326.5
+NER,Niger,1983,330.2
+NER,Niger,1984,334.5
+NER,Niger,1985,338.5
+NER,Niger,1986,341.3
+NER,Niger,1987,342.1
+NER,Niger,1988,341.0
+NER,Niger,1989,337.7
+NER,Niger,1990,332.4
+NER,Niger,1991,325.4
+NER,Niger,1992,316.7
+NER,Niger,1993,306.4
+NER,Niger,1994,294.3
+NER,Niger,1995,281.8
+NER,Niger,1996,269.4
+NER,Niger,1997,257.9
+NER,Niger,1998,247.2
+NER,Niger,1999,237.5
+NER,Niger,2000,227.9
+NER,Niger,2001,217.4
+NER,Niger,2002,205.9
+NER,Niger,2003,194.1
+NER,Niger,2004,182.4
+NER,Niger,2005,171.4
+NER,Niger,2006,161.6
+NER,Niger,2007,153.1
+NER,Niger,2008,146.0
+NER,Niger,2009,140.3
+NER,Niger,2010,136.0
+NER,Niger,2011,132.7
+NER,Niger,2012,130.3
+NER,Niger,2013,128.3
+NER,Niger,2014,126.8
+NER,Niger,2015,125.4
+NER,Niger,2016,124.3
+NER,Niger,2017,123.1
+NER,Niger,2018,121.9
+NER,Niger,2019,120.8
+NER,Niger,2020,119.5
+NER,Niger,2021,118.0
+NER,Niger,2022,116.0
+NER,Niger,2023,113.5
+NER,Niger,2024,110.7
+NGA,Nigeria,1964,325.7
+NGA,Nigeria,1965,318.8
+NGA,Nigeria,1966,312.1
+NGA,Nigeria,1967,305.4
+NGA,Nigeria,1968,406.8
+NGA,Nigeria,1969,397.2
+NGA,Nigeria,1970,387.4
+NGA,Nigeria,1971,276.3
+NGA,Nigeria,1972,268.0
+NGA,Nigeria,1973,259.8
+NGA,Nigeria,1974,251.5
+NGA,Nigeria,1975,243.3
+NGA,Nigeria,1976,235.8
+NGA,Nigeria,1977,228.8
+NGA,Nigeria,1978,222.6
+NGA,Nigeria,1979,217.1
+NGA,Nigeria,1980,212.9
+NGA,Nigeria,1981,209.7
+NGA,Nigeria,1982,207.7
+NGA,Nigeria,1983,206.7
+NGA,Nigeria,1984,206.6
+NGA,Nigeria,1985,206.9
+NGA,Nigeria,1986,207.5
+NGA,Nigeria,1987,208.0
+NGA,Nigeria,1988,208.2
+NGA,Nigeria,1989,208.0
+NGA,Nigeria,1990,207.6
+NGA,Nigeria,1991,206.7
+NGA,Nigeria,1992,205.7
+NGA,Nigeria,1993,204.6
+NGA,Nigeria,1994,203.1
+NGA,Nigeria,1995,201.0
+NGA,Nigeria,1996,198.1
+NGA,Nigeria,1997,194.3
+NGA,Nigeria,1998,189.4
+NGA,Nigeria,1999,183.6
+NGA,Nigeria,2000,177.3
+NGA,Nigeria,2001,170.5
+NGA,Nigeria,2002,163.9
+NGA,Nigeria,2003,157.4
+NGA,Nigeria,2004,151.4
+NGA,Nigeria,2005,145.8
+NGA,Nigeria,2006,140.9
+NGA,Nigeria,2007,136.5
+NGA,Nigeria,2008,132.5
+NGA,Nigeria,2009,129.2
+NGA,Nigeria,2010,126.3
+NGA,Nigeria,2011,123.8
+NGA,Nigeria,2012,121.6
+NGA,Nigeria,2013,119.9
+NGA,Nigeria,2014,118.7
+NGA,Nigeria,2015,117.8
+NGA,Nigeria,2016,117.4
+NGA,Nigeria,2017,117.2
+NGA,Nigeria,2018,117.2
+NGA,Nigeria,2019,117.4
+NGA,Nigeria,2020,117.4
+NGA,Nigeria,2021,117.6
+NGA,Nigeria,2022,117.5
+NGA,Nigeria,2023,116.8
+NGA,Nigeria,2024,115.6
+SEN,Senegal,1960,295.3
+SEN,Senegal,1961,295.4
+SEN,Senegal,1962,296.0
+SEN,Senegal,1963,296.8
+SEN,Senegal,1964,297.3
+SEN,Senegal,1965,297.4
+SEN,Senegal,1966,296.9
+SEN,Senegal,1967,295.9
+SEN,Senegal,1968,294.3
+SEN,Senegal,1969,291.9
+SEN,Senegal,1970,288.3
+SEN,Senegal,1971,283.5
+SEN,Senegal,1972,277.3
+SEN,Senegal,1973,270.1
+SEN,Senegal,1974,261.9
+SEN,Senegal,1975,252.7
+SEN,Senegal,1976,242.2
+SEN,Senegal,1977,231.3
+SEN,Senegal,1978,221.1
+SEN,Senegal,1979,212.0
+SEN,Senegal,1980,204.2
+SEN,Senegal,1981,197.6
+SEN,Senegal,1982,191.7
+SEN,Senegal,1983,185.7
+SEN,Senegal,1984,178.9
+SEN,Senegal,1985,171.1
+SEN,Senegal,1986,162.6
+SEN,Senegal,1987,154.3
+SEN,Senegal,1988,146.9
+SEN,Senegal,1989,141.2
+SEN,Senegal,1990,137.2
+SEN,Senegal,1991,135.2
+SEN,Senegal,1992,134.6
+SEN,Senegal,1993,135.0
+SEN,Senegal,1994,136.0
+SEN,Senegal,1995,137.0
+SEN,Senegal,1996,137.8
+SEN,Senegal,1997,137.9
+SEN,Senegal,1998,136.7
+SEN,Senegal,1999,133.8
+SEN,Senegal,2000,128.9
+SEN,Senegal,2001,121.7
+SEN,Senegal,2002,113.2
+SEN,Senegal,2003,104.2
+SEN,Senegal,2004,95.5
+SEN,Senegal,2005,87.6
+SEN,Senegal,2006,80.8
+SEN,Senegal,2007,75.0
+SEN,Senegal,2008,70.1
+SEN,Senegal,2009,66.1
+SEN,Senegal,2010,62.8
+SEN,Senegal,2011,60.0
+SEN,Senegal,2012,57.6
+SEN,Senegal,2013,55.5
+SEN,Senegal,2014,53.7
+SEN,Senegal,2015,52.2
+SEN,Senegal,2016,50.8
+SEN,Senegal,2017,49.4
+SEN,Senegal,2018,47.9
+SEN,Senegal,2019,46.2
+SEN,Senegal,2020,44.2
+SEN,Senegal,2021,42.2
+SEN,Senegal,2022,40.1
+SEN,Senegal,2023,38.2
+SEN,Senegal,2024,36.5
+SLE,Sierra Leone,1960,390.0
+SLE,Sierra Leone,1961,384.4
+SLE,Sierra Leone,1962,378.7
+SLE,Sierra Leone,1963,372.9
+SLE,Sierra Leone,1964,367.2
+SLE,Sierra Leone,1965,361.1
+SLE,Sierra Leone,1966,355.1
+SLE,Sierra Leone,1967,349.0
+SLE,Sierra Leone,1968,343.2
+SLE,Sierra Leone,1969,337.5
+SLE,Sierra Leone,1970,332.1
+SLE,Sierra Leone,1971,326.6
+SLE,Sierra Leone,1972,321.5
+SLE,Sierra Leone,1973,316.5
+SLE,Sierra Leone,1974,311.9
+SLE,Sierra Leone,1975,307.2
+SLE,Sierra Leone,1976,302.7
+SLE,Sierra Leone,1977,298.2
+SLE,Sierra Leone,1978,294.0
+SLE,Sierra Leone,1979,290.0
+SLE,Sierra Leone,1980,286.1
+SLE,Sierra Leone,1981,282.6
+SLE,Sierra Leone,1982,279.2
+SLE,Sierra Leone,1983,276.1
+SLE,Sierra Leone,1984,273.1
+SLE,Sierra Leone,1985,270.3
+SLE,Sierra Leone,1986,267.5
+SLE,Sierra Leone,1987,264.8
+SLE,Sierra Leone,1988,262.2
+SLE,Sierra Leone,1989,260.1
+SLE,Sierra Leone,1990,258.0
+SLE,Sierra Leone,1991,256.0
+SLE,Sierra Leone,1992,253.8
+SLE,Sierra Leone,1993,251.7
+SLE,Sierra Leone,1994,249.1
+SLE,Sierra Leone,1995,245.9
+SLE,Sierra Leone,1996,242.2
+SLE,Sierra Leone,1997,237.9
+SLE,Sierra Leone,1998,233.1
+SLE,Sierra Leone,1999,228.2
+SLE,Sierra Leone,2000,222.8
+SLE,Sierra Leone,2001,217.3
+SLE,Sierra Leone,2002,211.6
+SLE,Sierra Leone,2003,205.7
+SLE,Sierra Leone,2004,199.6
+SLE,Sierra Leone,2005,193.2
+SLE,Sierra Leone,2006,186.5
+SLE,Sierra Leone,2007,179.6
+SLE,Sierra Leone,2008,172.4
+SLE,Sierra Leone,2009,165.2
+SLE,Sierra Leone,2010,157.9
+SLE,Sierra Leone,2011,150.8
+SLE,Sierra Leone,2012,144.1
+SLE,Sierra Leone,2013,137.9
+SLE,Sierra Leone,2014,135.9
+SLE,Sierra Leone,2015,136.8
+SLE,Sierra Leone,2016,121.8
+SLE,Sierra Leone,2017,117.0
+SLE,Sierra Leone,2018,112.4
+SLE,Sierra Leone,2019,108.3
+SLE,Sierra Leone,2020,104.4
+SLE,Sierra Leone,2021,100.6
+SLE,Sierra Leone,2022,97.1
+SLE,Sierra Leone,2023,93.8
+SLE,Sierra Leone,2024,90.5
+TGO,Togo,1960,259.7
+TGO,Togo,1961,257.0
+TGO,Togo,1962,254.4
+TGO,Togo,1963,251.4
+TGO,Togo,1964,248.3
+TGO,Togo,1965,244.9
+TGO,Togo,1966,241.3
+TGO,Togo,1967,237.6
+TGO,Togo,1968,233.6
+TGO,Togo,1969,229.4
+TGO,Togo,1970,225.1
+TGO,Togo,1971,220.5
+TGO,Togo,1972,216.0
+TGO,Togo,1973,211.4
+TGO,Togo,1974,206.7
+TGO,Togo,1975,202.1
+TGO,Togo,1976,197.4
+TGO,Togo,1977,192.8
+TGO,Togo,1978,188.2
+TGO,Togo,1979,183.7
+TGO,Togo,1980,179.3
+TGO,Togo,1981,175.2
+TGO,Togo,1982,171.1
+TGO,Togo,1983,167.3
+TGO,Togo,1984,163.7
+TGO,Togo,1985,160.2
+TGO,Togo,1986,157.2
+TGO,Togo,1987,154.4
+TGO,Togo,1988,151.8
+TGO,Togo,1989,149.5
+TGO,Togo,1990,147.3
+TGO,Togo,1991,145.2
+TGO,Togo,1992,143.1
+TGO,Togo,1993,140.8
+TGO,Togo,1994,138.5
+TGO,Togo,1995,135.7
+TGO,Togo,1996,132.8
+TGO,Togo,1997,129.6
+TGO,Togo,1998,126.2
+TGO,Togo,1999,122.8
+TGO,Togo,2000,119.2
+TGO,Togo,2001,115.7
+TGO,Togo,2002,112.2
+TGO,Togo,2003,108.8
+TGO,Togo,2004,105.5
+TGO,Togo,2005,102.4
+TGO,Togo,2006,99.3
+TGO,Togo,2007,96.5
+TGO,Togo,2008,93.7
+TGO,Togo,2009,90.9
+TGO,Togo,2010,88.3
+TGO,Togo,2011,85.6
+TGO,Togo,2012,82.9
+TGO,Togo,2013,80.2
+TGO,Togo,2014,77.7
+TGO,Togo,2015,75.2
+TGO,Togo,2016,72.8
+TGO,Togo,2017,70.4
+TGO,Togo,2018,68.1
+TGO,Togo,2019,66.0
+TGO,Togo,2020,63.9
+TGO,Togo,2021,62.0
+TGO,Togo,2022,60.0
+TGO,Togo,2023,58.1
+TGO,Togo,2024,56.1
