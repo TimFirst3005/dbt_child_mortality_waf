@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: stg_child_mortality
-    description: "Données de mortalité des moins de 5 ans, nettoyées, pour les pays d'Afrique de l'Ouest"
+    description: '{{ doc("staging_layer_purpose") }}'
     columns:
       - name: country_code
         description: "Code ISO 3166-1 alpha-3 du pays"
@@ -19,7 +19,7 @@ models:
                 severity: warn
 
       - name: under5_mortality_rate
-        description: "Le taux de mortalité des moins de 5 ans par 1 000 naissances vivantes"
+        description: '{{ doc("under5_mortality_methodology") }}'
         data_tests:
           - not_null
 
