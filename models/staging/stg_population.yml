@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: stg_population
+    description: "Population totale par pays et par année, issue de la source externe raw.population."
+    columns:
+      - name: country_code
+        description: "Code pays ISO 3166-1 alpha-3."
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('stg_child_mortality')
+              field: country_code
+
+      - name: year
+        description: "Année de l'observation."
+        data_tests:
+          - not_null
+
+      - name: population_total
+        description: "Population totale du pays."
+        data_tests:
+          - not_null

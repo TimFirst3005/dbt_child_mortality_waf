@@ -13,6 +13,10 @@ models:
         description: "L'année de l'observation"
         data_tests:
           - not_null
+          - dbt_utils.accepted_range:
+              min_value: 1990
+              config:
+                severity: warn
 
       - name: under5_mortality_rate
         description: "Le taux de mortalité des moins de 5 ans par 1 000 naissances vivantes"
