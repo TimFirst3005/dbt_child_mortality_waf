@@ -1,0 +1,24 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Données brutes chargées par un processus externe à dbt (ici simulé via un script Python)."
+    schema: raw
+    tables:
+      - name: population
+        description: "Population totale par pays et par année, source Banque mondiale (SP.POP.TOTL)."
+        columns:
+          - name: country_code
+            description: "Code pays ISO 3166-1 alpha-3."
+            data_tests:
+              - not_null
+
+          - name: year
+            description: "Année de l'observation."
+            data_tests:
+              - not_null
+
+          - name: population_total
+            description: "Population totale du pays."
+            data_tests:
+              - not_null
