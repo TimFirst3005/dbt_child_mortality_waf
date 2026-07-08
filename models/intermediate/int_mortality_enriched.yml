@@ -1,0 +1,33 @@
+version: 2
+
+models:
+  - name: int_mortality_enriched
+    description: "Combine les données de mortalité (stg_child_mortality) et de population (stg_population) pour estimer le nombre absolu d'enfants concernés par pays et par année."
+    columns:
+      - name: country_code
+        data_type: varchar
+        description: "Code ISO3 du pays"
+
+      - name: country_name
+        data_type: varchar
+        description: "Nom du pays"
+
+      - name: year
+        data_type: integer
+        description: "Année d'observation"
+
+      - name: under5_mortality_rate
+        data_type: double
+        description: "Taux de mortalité des enfants de moins de 5 ans pour 1000 naissances vivantes"
+
+      - name: mortality_severity
+        data_type: varchar
+        description: "Classification du niveau de mortalité (Modéré / Élevé / Critique)"
+
+      - name: population_total
+        data_type: bigint
+        description: "Population totale du pays pour l'année donnée"
+
+      - name: estimated_affected_population
+        data_type: double
+        description: "Estimation du nombre absolu d'enfants concernés par la mortalité (calcul indicatif : taux / 1000 x population)"

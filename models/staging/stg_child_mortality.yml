@@ -22,6 +22,12 @@ models:
         description: '{{ doc("under5_mortality_methodology") }}'
         data_tests:
           - not_null
+          - dbt_expectations.expect_column_values_to_be_between:
+              min_value: 0
+              max_value: 1000
+          - dbt_expectations.expect_column_mean_to_be_between:
+              min_value: 20
+              max_value: 250
 
       - name: mortality_severity
         description: "Classification du niveau de mortalité : Modéré, Elevé, Critique"
