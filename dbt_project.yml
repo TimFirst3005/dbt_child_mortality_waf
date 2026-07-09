@@ -45,3 +45,10 @@ models:
 
     marts:
       +materialized: table
+
+seeds:
+  child_mortality_waf:
+    +schema: seeds
+    seed_country_reference:
+      +column_types:
+        is_landlocked: boolean

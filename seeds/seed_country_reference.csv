@@ -1,0 +1,17 @@
+country_code,country_name,sub_region,official_language,is_landlocked
+BEN,Benin,Afrique de l'Ouest,Français,false
+BFA,Burkina Faso,Afrique de l'Ouest,Français,true
+CPV,Cabo Verde,Afrique de l'Ouest,Portugais,false
+CIV,Cote d'Ivoire,Afrique de l'Ouest,Français,false
+GMB,Gambia,Afrique de l'Ouest,Anglais,false
+GHA,Ghana,Afrique de l'Ouest,Anglais,false
+GIN,Guinea,Afrique de l'Ouest,Français,false
+GNB,Guinea-Bissau,Afrique de l'Ouest,Portugais,false
+LBR,Liberia,Afrique de l'Ouest,Anglais,false
+MLI,Mali,Afrique de l'Ouest,Français,true
+MRT,Mauritania,Afrique de l'Ouest,Arabe,false
+NER,Niger,Afrique de l'Ouest,Français,true
+NGA,Nigeria,Afrique de l'Ouest,Anglais,false
+SEN,Senegal,Afrique de l'Ouest,Français,false
+SLE,Sierra Leone,Afrique de l'Ouest,Anglais,false
+TGO,Togo,Afrique de l'Ouest,Français,false

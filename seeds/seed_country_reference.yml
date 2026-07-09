@@ -1,0 +1,26 @@
+version: 2
+
+seeds:
+  - name: seed_country_reference
+    description: "Référentiel statique : sous-region, langue officielle et status d'enclavement pour les 16 pays d'Afrique de l'Ouest suivis dans ce projet."
+    columns:
+      - name: country_code
+        description: "Code ISO 3166-1 alpha-3 du pays"
+        data_tests: 
+          - not_null
+          - unique
+
+      - name: sub_region
+        description: "Sous-région géographique du pays"
+        data_tests:
+          - not_null
+
+      - name: official_language
+        description: "Langue officielle du pays"
+        data_tests:
+          - not_null
+
+      - name: is_landlocked
+        description: "Vrai si le pays est enclavé (sans accès à la mer)"
+        data_tests:
+          - not_null
