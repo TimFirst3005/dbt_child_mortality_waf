@@ -1,3 +1,12 @@
+{{ 
+    config(
+    materialized='incremental',
+    unique_key=['country_code', 'year'],
+    incremental_strategy='delete+insert',
+    )
+}}
+
+
 WITH mortality AS (
     select * from {{ ref('int_mortality_yoy_change') }}
 ),
@@ -27,3 +36,9 @@ final as (
 )
 
 SELECT * FROM final
+
+{% if is_incremental() %}
+    WHERE year > (
+        SELECT coalesce(max(year), 0) FROM {{ this }}
+)
+{% endif %}
