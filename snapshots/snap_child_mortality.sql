@@ -17,4 +17,4 @@ select
     mortality_severity
 from {{ ref('stg_child_mortality') }}
 
-{% endsnapshot %}
+{% endsnapshot %} 

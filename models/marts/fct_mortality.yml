@@ -1,0 +1,45 @@
+version: 2
+
+models:
+  - name: fct_mortality
+    description: "Table de faits : une ligne par pays et par année, avec les mesures de mortalité, d'évolution et de population. Grain = country_code x year."
+    columns:
+      - name: country_code
+        data_type: varchar
+        description: "Clé étrangère vers dim_country"
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('dim_country')
+              field: country_code
+
+      - name: year
+        data_type: integer
+        description: "Année d'observation"
+        data_tests:
+          - not_null
+
+      - name: under5_mortality_rate
+        data_type: double
+        description: "Taux de mortalité des moins de 5 ans pour 1000 naissances vivantes"
+
+      - name: mortality_severity
+        data_type: varchar
+        description: "Classification du niveau de mortalité"
+
+      - name: yoy_change_absolute
+        data_type: double
+        description: "Variation absolue du taux par rapport à l'année précédente"
+
+      - name: yoy_change_percent
+        data_type: double
+        description: "Variation en pourcentage du taux par rapport à l'année précédente"
+
+      - name: population_total
+        data_type: bigint
+        description: "Population totale du pays pour l'année donnée"
+
+      - name: estimated_affected_population
+        data_type: double
+        description: "Estimation du nombre absolu d'enfants concernés"
+
