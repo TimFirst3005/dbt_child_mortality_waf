@@ -1,3 +1,8 @@
+-- Analyse pédagogique (Module 8) : demonstration d'une boucle for Jinja
+-- pour générer dynamiquement un pivot de colonnes par pays.
+-- Fichier compilé uniquement (dbt compile), jamais exécuté en base.
+
+
 {% set west_africa_codes = ['CIV', 'SEN', 'NGA', 'GHA', 'MLI'] %}
 
 select

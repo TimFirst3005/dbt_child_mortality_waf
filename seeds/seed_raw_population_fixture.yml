@@ -1,0 +1,5 @@
+version: 2
+
+seeds:
+  - name: seed_raw_population_fixture
+    description: "Fixture de données de population (SP.POP.TOTL, Banque mondiale), rendue versionnable pour la reproductibilité CI (Module 16), en remplacement d'un chargement externe dépendant d'un chemin local."

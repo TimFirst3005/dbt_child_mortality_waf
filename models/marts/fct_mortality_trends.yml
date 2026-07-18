@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: fct_mortality_trends
+    description: "Table de faits historique (modèle table classique, non incrémental) combinant taux de mortalité, évolution annuelle et classification de tendance. Conservée à des fins pédagogiques en parallèle de fct_mortality (version incrémentale, Module 13)."
+    columns:
+      - name: country_code
+        description: "Code ISO3 du pays"
+      - name: trend_direction
+        description: "Direction de la tendance : Amélioration, Dégradation ou Stable"

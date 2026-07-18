@@ -1,5 +1,6 @@
 models:
   - name: metricflow_time_spine
+    description: "Modèle technique requis par MetricFlow (Module 18) : séquence continue de dates journalières de 1960 à 2030, utilisée en interne pour les calculs temporels du Semantic Layer."
     time_spine:
       standard_granularity_column: date_day
     columns:

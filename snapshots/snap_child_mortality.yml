@@ -1,0 +1,5 @@
+version: 2
+
+snapshots:
+  - name: snap_child_mortality
+    description: "Historisation SCD Type 2 des taux de mortalité et de leur classification de sévérité, via comparaison de colonnes (strategy check). Permet de tracer les révisions méthodologiques du UN IGME dans le temps."

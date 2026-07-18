@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: int_mortality_yoy_change
+    description: "Calcule l'évolution année sur année (absolue et en pourcentage) du taux de mortalité des moins de 5 ans, pour chaque pays. Modèle ephemeral, non matérialisé physiquement."
+    columns:
+      - name: country_code
+        description: "Code ISO3 du pays"
+      - name: year
+        description: "Année d'observation"
+      - name: previous_year_rate
+        description: "Taux de mortalité de l'année précédente pour ce pays (via LAG)"
+      - name: yoy_change_absolute
+        description: "Variation absolue du taux par rapport à l'année précédente"
+      - name: yoy_change_percent
+        description: "Variation en pourcentage du taux par rapport à l'année précédente"

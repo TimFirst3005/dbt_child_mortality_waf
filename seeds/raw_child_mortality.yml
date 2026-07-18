@@ -1,0 +1,5 @@
+version: 2
+
+seeds:
+  - name: raw_child_mortality
+    description: "Données brutes de mortalité des moins de 5 ans, source UN IGME via API Banque mondiale (SH.DYN.MORT), filtrées sur 16 pays d'Afrique de l'Ouest, format long. Chargées via dbt seed à des fins pédagogiques (en production, une vraie source externe serait plus appropriée, voir note du Module 10)."
