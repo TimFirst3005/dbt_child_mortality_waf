@@ -24,10 +24,8 @@ jobs:
 
       - name: Installation des packages dbt
         run: dbt deps
-        working-directory: ./child_mortality_waf
 
       - name: Exécution du pipeline complet
         run: dbt build --target ci
-        working-directory: ./child_mortality_waf
         env:
           DBT_PROFILES_DIR: ./
