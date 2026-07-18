@@ -1,0 +1,14 @@
+metrics:
+  - name: avg_under5_mortality_rate
+    label: "Taux de mortalité moyenne des moins de 5 ans (pour 1000 naissances vivantes)"
+    description: "Moyenne du taux de mortalité des moins de 5 ans par pays et par année."
+    type: simple
+    type_params:
+      measure: under5_mortality_rate
+
+  - name: total_affected_population
+    label: "Population totale affectée"
+    description: "Nombre total estimé d'enfants concernés par la mortalité"
+    type: simple
+    type_params:
+      measure: estimated_affected_population

@@ -1,0 +1,38 @@
+semantic_models:
+  - name: fct_mortality_semantic
+    description: "Modèle sémantique pour les métriques de mortalité infantile"
+    model: ref('fct_mortality')
+
+    defaults:
+      agg_time_dimension: year_date
+
+    entities:
+      - name: country
+        type: primary
+        expr: country_code
+
+    dimensions:
+      - name: year_date
+        type: time
+        type_params:
+          time_granularity: year
+        expr: make_date(year, 1, 1)
+
+      - name: mortality_severity
+        type: categorical
+
+    measures:
+      - name: under5_mortality_rate
+        description: "Taux de mortalité des moins de 5 ans"
+        agg: average
+        expr: under5_mortality_rate
+
+      - name: estimated_affected_population
+        description: "Estimation du nombre absolu d'enfants concernés"
+        agg: sum
+        expr: estimated_affected_population
+
+      - name: country_count
+        description: "Nombre de pays"
+        agg: count_distinct
+        expr: country_code
