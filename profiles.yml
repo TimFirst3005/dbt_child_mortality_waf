@@ -1,0 +1,7 @@
+child_mortality_waf:
+  outputs:
+    ci:
+      type: duckdb
+      path: ci.duckdb
+      threads: 4
+  target: ci
