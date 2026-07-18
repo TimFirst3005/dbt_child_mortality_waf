@@ -1,5 +1,5 @@
 with source as (
-    select * from {{ source('raw', 'population') }}
+    select * from {{ ref("seed_raw_population_fixture") }}
 ),
 
 renamed as (
