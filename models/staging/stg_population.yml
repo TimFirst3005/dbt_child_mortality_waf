@@ -9,8 +9,9 @@ models:
         data_tests:
           - not_null
           - relationships:
-              to: ref('stg_child_mortality')
-              field: country_code
+              arguments:
+                to: ref('stg_child_mortality')
+                field: country_code
 
       - name: year
         description: "Année de l'observation."
