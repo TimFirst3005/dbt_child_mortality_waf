@@ -12,6 +12,9 @@ models:
           - relationships:
               to: ref('dim_country')
               field: country_code
+              config:
+                error_if: ">5"
+                warnn_if: ">0"
 
       - name: year
         data_type: integer
