@@ -1,11 +1,31 @@
-Welcome to your new dbt project!
+# Projet dbt — Mortalité infantile en Afrique de l'Ouest
 
-### Using the starter project
+Projet pédagogique complet démontrant une maîtrise de dbt Core, de l'ingestion
+de données brutes jusqu'à la restitution BI, en passant par la modélisation
+dimensionnelle, les tests, le Semantic Layer et l'intégration continue.
 
-Try running the following commands:
-- dbt run
-- dbt test
+## Stack
+- **Transformation** : dbt Core 1.11 + DuckDB
+- **CI/CD** : GitHub Actions
+- **Semantic Layer** : MetricFlow (dbt-metricflow)
+- **BI** : Power BI (connexion ODBC)
 
+## Architecture
+Source Banque mondiale (SH.DYN.MORT, SP.POP.TOTL)
+  → seeds (raw_child_mortality, seed_raw_population_fixture, seed_country_reference)
+  → staging (nettoyage, typage)
+  → intermediate (calculs : évolution YoY, enrichissement population)
+  → marts (dim_country, fct_mortality en incrémental, fct_mortality_trends)
+  → snapshot (historisation SCD Type 2)
+  → Semantic Layer (métriques : taux moyen, population affectée)
+  → Power BI
+
+## Qualité
+24 tests (génériques, singuliers, dbt_expectations), documentation complète,
+pipeline CI validé à chaque push.
+
+
+---
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
